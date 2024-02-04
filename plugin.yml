@@ -1,0 +1,5 @@
+name: Border
+version: 1.0.0
+
+api: 5.0.0
+main: dungeonlands\border\BorderLoader
